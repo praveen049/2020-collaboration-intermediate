@@ -7,4 +7,4 @@ wq
 ## Branches
 - 'git branch <branch-name>' : Create a new branch
 - 'git switch <branch-name>' : Move to a new branch
-
+- 'Added a new line to create a new commit'
