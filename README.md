@@ -10,3 +10,4 @@ wq
 - 'Added a new line to create a new commit'
 OK TO LOSE THIS CHANGE
 - git stash the temp state as a new commit
+- Check the pull request
