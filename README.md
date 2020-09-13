@@ -14,3 +14,5 @@ OK TO LOSE THIS CHANGE
 - Added this line to address comments
 =======
 - Editing the master directly
+- Did pull requests
+## And online merge 
