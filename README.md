@@ -12,3 +12,5 @@ OK TO LOSE THIS CHANGE
 - git stash the temp state as a new commit
 - Check the pull request
 - Added this line to address comments
+=======
+- Editing the master directly
