@@ -14,5 +14,3 @@ OK TO LOSE THIS CHANGE
 - Added this line to address comments
 =======
 - Editing the master directly
-
-CHERRY picking
