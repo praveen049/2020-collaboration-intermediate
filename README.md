@@ -16,3 +16,4 @@ OK TO LOSE THIS CHANGE
 - Editing the master directly
 - Did pull requests
 ## And online merge 
+##" Testing adding a new file to commit
